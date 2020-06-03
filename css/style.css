@@ -34,7 +34,7 @@ main {
 
 #landing {
   background: #fff;
-  background: url('C:/Users/Filip/Desktop/OWS_Projekt/pictures/pozadina1.jpg');
+  background: url('../pictures/pozadina1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
