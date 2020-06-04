@@ -81,6 +81,17 @@ main {
   background: #333;
   color: #fff;
 }
+#card {
+  padding: 1.5rem;
+  margin: 45px;
+  text-align: center;
+  background: gray;
+  color: black;
+}
+.centring{
+  text-align: center;
+  align-self: center;
+}
 
 #header h2 {
   border-left: dotted 1px #fff;
