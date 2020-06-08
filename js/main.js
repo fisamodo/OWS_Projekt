@@ -23,3 +23,11 @@ $('#view-poljica').on('click', function(){
         scrollTop: images
     }, 2300);
 });
+
+$('#view-start').on('click', function(){
+    const images = $('#landing').position().top;
+
+    $('html, body').animate({
+        scrollTop: images
+    }, 2300);
+});
