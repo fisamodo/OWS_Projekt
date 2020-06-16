@@ -23,6 +23,14 @@ h2 {
 img {
   display: block;
   width: 100%;
+  cursor: pointer;
+
+}
+img:hover{
+  transform: scale(1.03);
+  opacity: 0.8;
+  transition: opacity, transform 1.05s ease-in-out;
+
 }
 
 main {
@@ -117,6 +125,8 @@ footer h3 {
   font-size: 3rem;
   margin-bottom: 0;
 }
+
+
 
 
 
